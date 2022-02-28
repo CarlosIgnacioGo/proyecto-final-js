@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(225, 225, 241);
+}
+
+
+.boton-principal {
+    background-color: rgb(231, 213, 213);
+    color: black;
+    border: 2px solid #252725; /* Green */
+    border-radius: 50%;
+    padding: 10px;
+}
+
+
+    .boton-usuarios {
+        background-color: rgb(231, 213, 213);
+        color: black;
+        border: 2px solid #252725; /* Green */
+        border-radius: 50%;
+        padding: 10px;
+    }
+
+
+.nombre-principal {
+    background-color: rgb(228, 225, 222) ;
+    width: 100%;
+    padding: 50px; 
+    text-align: center; 
+    border-top-style: solid;
+    border-bottom: solid;
+   
+    
+}
+
+.nombre-usuarios {
+    background-color: rgb(228, 225, 222);
+}
+
+.main{
+    width: 1060px;
+    margin:0 auto;
+}
